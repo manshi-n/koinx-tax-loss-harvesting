@@ -16,6 +16,7 @@ A React app that helps users see how selling specific crypto holdings at a loss 
 ![](screenshots/2.png)
 
 ![](screenshots/3.png)
+
 ![](screenshots/mobile.png)
 
 
