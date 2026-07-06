@@ -7,10 +7,15 @@ A React app that helps users see how selling specific crypto holdings at a loss 
 🔗 https://koinx-tax-loss-harvesting-liard.vercel.app/
 
 ## Screenshots
-screenshots/selection.png
-screenshots/selectall.png
-screenshots/2.png
-screenshots/3.png
+
+
+![](screenshots/selection.png)
+
+![](screenshots/selectall.png)
+
+![](screenshots/2.png)
+
+![](screenshots/3.png)
 
 
 ## Features
